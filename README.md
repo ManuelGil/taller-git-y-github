@@ -35,10 +35,20 @@ En este taller repasamos los siguientes conceptos:
 - Tag
 - Release
 - Versionamiento Semántico
-- CHANGELOG.md
+- CHANGELOG
 - Badges
 - .gitignore
 - Licencias
+
+## Recursos
+
+- [Lista de reproducción](https://www.youtube.com/playlist?list=PLFMJZ4VFmG6NX9pAfHR8CDA0hMyGjZ_Y-)
+- [Diapositivas Parte 1](https://www.canva.com/design/DAEbrgXmM7E/2Q1XwqnQg52SebX45aLmow/view?utm_content=DAEbrgXmM7E&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- [Diapositivas Parte 2](https://www.canva.com/design/DAEg58n5MVg/sI2Gx7pDldMBCTWi2Mhj6A/view?utm_content=DAEg58n5MVg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- [Diapositivas Parte 3](https://www.canva.com/design/DAEhGiiwDsA/atR638aTINmTxKWN1GNZEg/view?utm_content=DAEhGiiwDsA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- [Jekill](https://pages.github.com/themes/)
+- [Changelog](https://keepachangelog.com/es-ES/1.0.0/)
+- [Badges](https://shields.io/)
 
 ## Autores
 
