@@ -74,6 +74,8 @@ En este taller repasamos los siguientes conceptos:
 
 - [Diapositivas Parte 3](https://www.canva.com/design/DAEhGiiwDsA/atR638aTINmTxKWN1GNZEg/view?utm_content=DAEhGiiwDsA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
+- [Diapositivas Extras](https://www.canva.com/design/DAEhfUmdLmM/xX_xL5EHrcWX02QEJfuDuw/view?utm_content=DAEhfUmdLmM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 - [Jekill](https://pages.github.com/themes/)
 
 - [Changelog](https://keepachangelog.com/es-ES/1.0.0/)
