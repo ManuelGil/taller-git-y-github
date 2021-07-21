@@ -90,6 +90,7 @@ En este taller repasamos los siguientes conceptos:
 
 - **Manuel Gil** - Maestro - [ManuelGil](https://github.com/ManuelGil) / [imgildev](https://github.com/imgildev)
 - **Manuel Romero** - Alumno - [Manuel Romero](https://github.com/Hazdan)
+- **Catalina Romero** - [CatalinaRomero20](https://github.com/CatalinaRomero20)
 
 Tú también puedes hacer parte de este repositorio, solo tienes que hacer un Pull Request (PR) agregando tu usuario de GitHub con el rol de alumna/o.
 
